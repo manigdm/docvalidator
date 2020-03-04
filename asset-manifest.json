@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12c8857b.chunk.css",
+    "main.js": "/static/js/main.33cede6f.chunk.js",
+    "main.js.map": "/static/js/main.33cede6f.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.d9e14d2a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.d9e14d2a.js.map",
+    "static/css/2.301fcd7a.chunk.css": "/static/css/2.301fcd7a.chunk.css",
+    "static/js/2.f01bb453.chunk.js": "/static/js/2.f01bb453.chunk.js",
+    "static/js/2.f01bb453.chunk.js.map": "/static/js/2.f01bb453.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.731655113bf01e046ec6d56badafb940.js": "/precache-manifest.731655113bf01e046ec6d56badafb940.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.301fcd7a.chunk.css.map": "/static/css/2.301fcd7a.chunk.css.map",
+    "static/css/main.12c8857b.chunk.css.map": "/static/css/main.12c8857b.chunk.css.map",
+    "static/media/index.css": "/static/media/404.869878d6.png",
+    "static/media/App.css": "/static/media/login.3c816b36.png",
+    "static/media/addhar-card@3x.png": "/static/media/addhar-card@3x.eb5d0e13.png",
+    "static/media/lady-vector.png": "/static/media/lady-vector.432b5266.png",
+    "static/media/loader.gif": "/static/media/loader.b0230799.gif"
+  }
+}
